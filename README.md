@@ -5,3 +5,5 @@
 ![Breath (dark)](images/Breath_dark.png)
 ## Olive theme ##
 ![Olive](images/Olive.png)
+## Olive (dark) theme ##
+![Olive (dark)](images/Olive_dark.png)
