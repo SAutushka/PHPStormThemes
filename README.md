@@ -7,7 +7,7 @@
 ![Olive](images/Olive.png)
 ## Olive (dark) theme ##
 ![Olive (dark)](images/Olive_dark.png)
-## Github Tuned ##
+## Github Tuned theme ##
 ![Github tuned](images/Github_Tuned.png)
-## Lambda ##
+## Lambda theme ##
 ![Lambda](images/Lambda.png)
